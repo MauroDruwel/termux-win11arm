@@ -1,1 +1,1 @@
-# termux-win11arm
+Download the Windows 11 ARM64 preview from [Microsoft](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewarm64) or UUP Dump, and convert it to an ISO file.
