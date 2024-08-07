@@ -17,7 +17,7 @@ if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
 
 elif [[ $input == No || $input == no || $input == n || $input == N ]]; then
 echo -e "\e[1;91m1. First Download WIN11 ARM ISO file from this Link: \e[1;92mhttps://www.microsoft.com/en-us/software-download/windowsinsiderpreviewARM64"
-echo "2. Place WIN11 ARM ISO file into the Downloads folder."
+echo "2. Place WIN11 ARM ISO file into the Downloads folder, with the name WIN11_ARM.iso"
 exit 2
 else
 echo -e "\e[1;91mInvalid Option"
